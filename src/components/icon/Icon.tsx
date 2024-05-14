@@ -3,9 +3,9 @@ import iconsSprite from "../../assets/images/icons-sprite.svg"
 
 
 type IconProps = {
-    iconId:string
-    codeTelegram:string
-    codeVK:string
+    iconId?:string
+    codeTelegram?:string
+    codeVK?:string
 
 
     width?:string
