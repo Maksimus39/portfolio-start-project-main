@@ -32,7 +32,7 @@ const Photo = styled.img`
     //object-fit: cover;
     background-color: #805DCF;
     border-radius: 200px;
-    border: 7px solid #357999;
+    border: 7px solid rgba(53, 121, 153, 0.87);
 `
 
 const MainTitle = styled.h1`
